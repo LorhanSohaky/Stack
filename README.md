@@ -1,4 +1,7 @@
-## PILHA GENÉRICA EM C
+## PILHA GENÉRICA EM C <Deprecated>
+  
+### DEPRECATED
+Use [DataStructures](https://github.com/LorhanSohaky/DataStructures)
 
 ### LICENÇA
 **MIT**
